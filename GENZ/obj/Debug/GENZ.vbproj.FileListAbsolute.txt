@@ -1,0 +1,12 @@
+C:\Users\harri\source\repos\GENZ\GENZ\bin\Debug\GENZ.exe.config
+C:\Users\harri\source\repos\GENZ\GENZ\bin\Debug\GENZ.exe
+C:\Users\harri\source\repos\GENZ\GENZ\bin\Debug\GENZ.pdb
+C:\Users\harri\source\repos\GENZ\GENZ\bin\Debug\GENZ.xml
+C:\Users\harri\source\repos\GENZ\GENZ\obj\Debug\GENZ.vbproj.AssemblyReference.cache
+C:\Users\harri\source\repos\GENZ\GENZ\obj\Debug\GENZ.Form1.resources
+C:\Users\harri\source\repos\GENZ\GENZ\obj\Debug\GENZ.Resources.resources
+C:\Users\harri\source\repos\GENZ\GENZ\obj\Debug\GENZ.vbproj.GenerateResource.cache
+C:\Users\harri\source\repos\GENZ\GENZ\obj\Debug\GENZ.vbproj.CoreCompileInputs.cache
+C:\Users\harri\source\repos\GENZ\GENZ\obj\Debug\GENZ.exe
+C:\Users\harri\source\repos\GENZ\GENZ\obj\Debug\GENZ.xml
+C:\Users\harri\source\repos\GENZ\GENZ\obj\Debug\GENZ.pdb
